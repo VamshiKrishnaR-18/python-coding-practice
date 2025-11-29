@@ -2,25 +2,6 @@
 
 This repository contains sample Python solutions for coding problems solved while practicing on LeetCode.
 
-## Project Structure
-
-```
-python-coding-practice/
-│
-├── README.md
-└── solutions/
-    ├── longest_substring_without_repeating_characters.py
-    ├── integer_to_roman.py
-    ├── reverse_integer.py
-    ├── container_with_most_water.py
-    ├── three_sum.py
-    ├── remove_element.py
-    ├── valid_sudoku.py
-    ├── merge_intervals.py
-    ├── climbing_stairs.py
-    └── best_time_to_buy_and_sell_stock.py
-```
-
 
 ## Covered Problems
 
@@ -34,6 +15,10 @@ python-coding-practice/
 8. Merge Intervals (#56)
 9. Climbing Stairs (#70)
 10. Best Time to Buy and Sell Stock (#121)
+11. License Plate Validation & Formatting
+12. Pig Latin Transformation
+13. Time Puzzle
+14. Maximize Sum Of Array After K Negations(#1005)
 
 ## Purpose
 
